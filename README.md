@@ -1,4 +1,4 @@
-GettingAndCleaningData
+Documentation: run_analysis.R
 ======================
 
 Abstract
